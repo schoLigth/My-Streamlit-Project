@@ -1,3 +1,5 @@
+file JSON == file dictionary in python 
+
 Commit code pertama kali ke github: 
     git init
     git config --global user.name "schoLigth"
@@ -13,4 +15,8 @@ Commit perubahan code ke github:
     git add .
     git commit -m "Perubahan terbaru pada app.py"
     git push
+
+
+
+sumber untuk datasciencweb: https://ichi.pro/id/streamlit-hands-on-dari-nol-ke-aplikasi-web-pertama-anda-yang-luar-biasa-48554503889428 
 

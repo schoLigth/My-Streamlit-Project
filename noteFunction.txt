@@ -1,0 +1,6 @@
+Tujuan: Membuat tampilan web dengan input, grafik, dan layout Materi:
+
+st.title(), st.header(), st.text()
+st.button(), st.selectbox(), st.slider()
+st.file_uploader() dan st.image()
+st.pyplot() dan st.dataframe()
