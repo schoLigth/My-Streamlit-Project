@@ -18,3 +18,6 @@ st.dataframe(data)
 # Interaktif example
 nilai = st.slider("Pilih nilai", 0,100,50)
 st.write("Nilai yang kamu pilih", nilai)
+
+
+st.write("Thank you for your time to learn")
