@@ -1,1 +1,16 @@
-Langkah-langkah push ke git hub
+Commit code pertama kali ke github: 
+    git init
+    git config --global user.name "schoLigth"
+    git config --global user.email "emailkamu@example.com"
+    git add .
+    git commit -m "Initial commit: Streamlit app"
+    git branch -M main
+    git remote add origin https://github.com/schoLigth/My-Streamlit-Project.git
+    git push -u origin main
+
+
+Commit perubahan code ke github:
+    git add .
+    git commit -m "Perubahan terbaru pada app.py"
+    git push
+
