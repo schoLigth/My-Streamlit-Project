@@ -21,3 +21,4 @@ st.write("Nilai yang kamu pilih", nilai)
 
 
 st.write("Thank you for your time to learn")
+choose = st.area_chart("Student", data["Nilai"])
